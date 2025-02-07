@@ -4,7 +4,7 @@ Please be aware this process will run code from the following sources:
 - https://github.com/j178/chatgpt
 - https://github.com/packwiz/packwiz-installer-bootstrap?tab=MIT-1-ov-file
 
-A bootstrapper for setting up new minecraft servers, making use of Packwiz for modpack download, nix for dependencies (java version) and some python scripts for convenience
+A bootstrapper for setting up new minecraft servers with auto update functionality, making use of Packwiz for mod management,  nix for dependencies (java version) and some python scripts for convenience
 
 Find Packwiz here (it's doing all the heavy lifting)
 
